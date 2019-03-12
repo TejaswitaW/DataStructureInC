@@ -17,7 +17,7 @@ int main()
 {
     int a=100,b=200;
     int *p=add(&a,&b);
- //   Print_Hello();
+  Print_Hello();
     printf("Sum of two numbers is:%d\n",*p);
 
 }

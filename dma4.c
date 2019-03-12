@@ -22,4 +22,6 @@ int main()
     }
     int z=100;
     printf("%d\n",z);
+
+
 }
